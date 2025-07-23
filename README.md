@@ -1,2 +1,2 @@
-# Personajes-Rick-y-Morty
-Web que muestra personajes de Rick and Morty usando su API. Renderiza tarjetas con imagen y datos clave. Incluye 3 filtros interactivos. Estilizado con Tailwind CSS y diseñado para ser responsivo.
+# Portafolio-Personal
+Portafolio de un joven desarrollador de 22 años, estudiante de Ingeniería en Sistemas. Aplico tecnologías como HTML, CSS, Tailwind, JavaScript, React, Node.js y Java para crear interfaces modernas, funcionales y responsivas. Este repositorio muestra mis mejores proyectos web.

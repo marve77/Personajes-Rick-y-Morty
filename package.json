@@ -1,0 +1,23 @@
+{
+  "name": "portafolio-personal",
+  "version": "1.0.0",
+  "description": "Portafolio de un joven desarrollador de 22 años, estudiante de Ingeniería en Sistemas. Aplico tecnologías como HTML, CSS, Tailwind, JavaScript, React, Node.js y Java para crear interfaces modernas, funcionales y responsivas. Este repositorio muestra mis mejores proyectos web.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build:styles": "pnpm dlx @tailwindcss/cli -i ./input.css -o ./estilos/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marve77/Portafolio-Personal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marve77/Portafolio-Personal/issues"
+  },
+  "homepage": "https://github.com/marve77/Portafolio-Personal#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.1.11"
+  }
+}
